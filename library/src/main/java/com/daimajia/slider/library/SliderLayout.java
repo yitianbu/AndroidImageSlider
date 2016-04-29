@@ -86,6 +86,8 @@ import java.util.TimerTask;
  */
 public class SliderLayout extends RelativeLayout{
 
+
+ //test1
     private Context mContext;
     /**
      * InfiniteViewPager is extended from ViewPagerEx. As the name says, it can scroll without bounder.
